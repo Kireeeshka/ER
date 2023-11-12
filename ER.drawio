@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-11-12T14:50:02.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="C5L1aOCwGyS_svRoYik9" version="22.1.0" type="device">
+  <diagram name="Страница — 1" id="HlYB1-cBzF7z0C64Mo8U">
+    <mxGraphModel dx="1052" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Детский сад&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Номер детского сада&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Название&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Воспитатель&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Дети&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="465.67" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ФИО&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Телефон&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-240;" vertex="1" parent="1">
+          <mxGeometry x="409.33" y="468.84" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Должность&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="477.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-24" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Группа&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="170" y="428.84" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ФИО&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="165" y="590" width="25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=65;" vertex="1" parent="1">
+          <mxGeometry x="284.7" y="629.81" width="110" height="29.33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-29" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Номер группы&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-30" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Название группы&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="140" as="sourcePoint" />
+            <mxPoint x="550" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZcHUzsD3yZIeUZqDrQVs-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="730" as="sourcePoint" />
+            <mxPoint x="160" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
